@@ -1,4 +1,4 @@
-# Tailwind & Stimulus Project
+# Tailwind & Stimulus Project.
 
 yarn install
 
